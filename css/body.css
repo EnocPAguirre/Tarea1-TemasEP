@@ -1,0 +1,26 @@
+.container {
+  background-color: black;
+  height: 700px;
+}
+
+.izquierda {
+  display: inline-block;
+  height: 100%;
+  width: 60%;
+  margin-top:50px;
+  color: white;
+  font-size: 25px;
+
+}
+.size {
+  font-size: 65px;
+  color: white;
+
+}
+.derecha {
+  float: left;
+  display: inline-block;
+  height: 100%;
+  width: 30%;
+  margin-right: 50px;
+}
